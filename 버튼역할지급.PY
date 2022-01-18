@@ -1,5 +1,5 @@
-import asyncio, discord, requests, sqlite3, datetime, uuid
-from discord_components import DiscordComponents, Button, ButtonStyle, Select, component, interaction, SelectOption
+import discord
+from discord_components import DiscordComponents, Button, ButtonStyle, interaction
 
 '''
 망치#1111
